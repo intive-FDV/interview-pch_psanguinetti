@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My First Million</string>
+    <string name="s_jobs">S. Jobs</string>
+    <string name="_1_234_567_usd">$1,234,567 USD</string>
+    <string name="_2_years_9_months">2 years, 9 months</string>
+    <string name="retry">Retry</string>
+    <string name="edit">Edit</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+</resources>

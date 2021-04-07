@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cardview_margin">10dp</dimen>
+    <dimen name="cardview_elevation">4dp</dimen>
+    <dimen name="constraintlayout_padding">10dp</dimen>
+    <dimen name="row_avatar_size">100dp</dimen>
+    <dimen name="view_horizontal_margin">10dp</dimen>
+</resources>
